@@ -93,3 +93,11 @@ tolerations: []
 affinity: {}
 
 topologySpreadConstraints: []
+
+volumes: []
+
+volumeMounts: []
+
+initContainers: []
+
+sidecars: []
